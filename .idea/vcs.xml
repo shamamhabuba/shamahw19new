@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HW10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JSandTS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JSproject/JavaScript" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Todoapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-node-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calc-ts-jest-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functionsHomework.ts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw14array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw16" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro-to-api-testing-playwright/demo-lesson-playwright" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro-to-api-testing-playwright/hw14" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/playwrighthw-15" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shamamhabuba" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ts-fix-me-classes" vcs="Git" />
+  </component>
+</project>
